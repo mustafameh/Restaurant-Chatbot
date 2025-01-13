@@ -1,0 +1,302 @@
+User Input|Intent
+
+"Hello!"|greet
+"Hi there!"|greet
+"Good morning!"|greet
+"Good afternoon!"|greet
+"Good evening!"|greet
+"Hey!"|greet
+"Hi!"|greet
+"Hello, how are you?"|greet
+"Hey, what's up?"|greet
+"Hiya!"|greet
+"Greetings!"|greet
+"Howdy!"|greet
+"What's going on?"|greet
+"Hello there!"|greet
+"Hey there!"|greet
+"How's it going?"|greet
+"Good to see you!"|greet
+"Nice to meet you!"|greet
+"Hey, how's your day?"|greet
+"Hello, nice to meet you."|greet
+"Hi, hope you're well."|greet
+"Hey, how are things?"|greet
+"Good day!"|greet
+"Hi, how's everything?"|greet
+"Hello, hope all is well."|greet
+
+"Change my name in your system"|change_name
+"I would like to update my name"|change_name
+"My name should be updated to..."|change_name
+"Can you update my name in your records?"|change_name
+"I need to change the name on my account."|change_name
+"Please alter my name in your database."|change_name
+"I want to modify my registered name."|change_name
+"Could you change my name to something else?"|change_name
+"I'd like my name to be updated, please."|change_name
+"Can you correct the spelling of my name?"|change_name
+"I need to update my name details."|change_name
+"Please change my name to the new one I provide."|change_name
+"Is it possible to change my name in your system?"|change_name
+"I would like to change my current name."|change_name
+"Can you adjust my name in your files?"|change_name
+"Please update my name as per my new request."|change_name
+"I'm requesting a name change in your records."|change_name
+"Could you update my name to reflect my new surname?"|change_name
+"I want to make a change to the name you have on file."|change_name
+"Please amend my name in your system."|change_name
+"Can I have my name changed here?"|change_name
+"I'd like to request a name update in your database."|change_name
+"Is it possible to revise my name in your records?"|change_name
+
+"Call me "|change_name_specified
+"Change my name to "|change_name_specified
+"Change my name to Alex."|change_name_specified
+"Please update my name to Samantha."|change_name_specified
+"My new name should be Michael."|change_name_specified
+"Can you change my name to Jessica?"|change_name_specified
+"I'd like my name to be updated to Chris."|change_name_specified
+"Set my name as Emily, please."|change_name_specified
+"Please alter my name to Daniel."|change_name_specified
+"I want my name to be Olivia now."|change_name_specified
+"Could you change my name to Max?"|change_name_specified
+"Make my name Sophia on your system."|change_name_specified
+"I prefer to be called Ethan, please update it."|change_name_specified
+"Update my name to Isabella."|change_name_specified
+"My name is now Mason, please change it."|change_name_specified
+"Let's change my name to Ava."|change_name_specified
+"Please change my registered name to William."|change_name_specified
+"I've decided to go by Emma, update it please."|change_name_specified
+"Change my name in your records to James."|change_name_specified
+"Can you update my name to Charlotte?"|change_name_specified
+"I would like to be called Benjamin, change it."|change_name_specified
+"Set my name as Amelia in your system."|change_name_specified
+"My name is now Lucas, please update that."|change_name_specified
+"Change my name to Mia."|change_name_specified
+"I want to be referred to as Henry."|change_name_specified
+"Please update my name to Harper."|change_name_specified
+"Change my name to Evelyn."|change_name_specified
+
+"What's my name?"|ask_name
+"What is my name?"|ask_name
+"Whats my name?"|ask_name
+"Can you tell me my name?"|ask_name
+"Do you know who I am?"|ask_name
+"Who am I according to you?"|ask_name
+"Could you remind me of my name?"|ask_name
+"What name did I give you earlier?"|ask_name
+"How do you address me?"|ask_name
+"What do you call me?"|ask_name
+"Am I known to you by a name?"|ask_name
+"Have I told you my name?"|ask_name
+"What's the name you have for me?"|ask_name
+"Do you recall my name?"|ask_name
+"How have you recorded my name?"|ask_name
+"What name do you have on file for me?"|ask_name
+"Have you stored a name for me?"|ask_name
+"What identity do you recognize me by?"|ask_name
+"Can you repeat my name back to me?"|ask_name
+"What name is associated with this account?"|ask_name
+"Under what name am I registered here?"|ask_name
+"Which name do you use for me?"|ask_name
+"May I know the name you have for me?"|ask_name
+"What name is in your memory for me?"|ask_name
+"Would you tell me the name you know me by?"|ask_name
+"Do you know my name?"|ask_name
+"Could you please confirm my name?"|ask_name
+"Have I introduced myself to you?"|ask_name
+"What name am I saved as in your system?"|ask_name
+"Hey, do you know my name?"|ask_name
+"Remind me, what name did I give you?"|ask_name
+"Can you recall the name I told you?"|ask_name
+"What name do you recognize me by?"|ask_name
+"How am I addressed in your records?"|ask_name
+"Did I ever tell you my name?"|ask_name
+"What's the name you have me listed under?"|ask_name
+
+
+
+"Can I see the full menu?"|view_menu
+"I'd like to check out your dishes"|view_menu
+"Show me what I can order"|view_menu
+"What are my options for meals?"|view_menu
+"Can you display the food menu, please?"|view_menu
+"I want to see what food items you have."|view_menu
+"Could you show me the menu list?"|view_menu
+"What dishes do you offer?"|view_menu
+"Please provide me with the menu."|view_menu
+"May I have a look at your menu?"|view_menu
+"What can I order here?"|view_menu
+"Show me the list of available dishes."|view_menu
+"Can I get a glimpse of your menu items?"|view_menu
+"I'm interested in seeing your menu."|view_menu
+"Please present the meal options."|view_menu
+"What's on the menu for today?"|view_menu
+"Can you list the dishes you serve?"|view_menu
+"I'd like to browse through your menu."|view_menu
+"Show me your food and drink options."|view_menu
+"What culinary delights do you offer?"|view_menu
+"Let me have a look at your dish selections."|view_menu
+"Can I check out the menu for today?"|view_menu
+"Please reveal your menu choices."|view_menu
+
+"Book a table for my anniversary"|reserve_table
+"I want to reserve a spot for next Friday"|reserve_table
+"Can you book a table for 4?"|reserve_table
+"Can I book a table for tonight?"|reserve_table
+"Could you help me reserve a table for two?"|reserve_table
+"I'd like to make a table reservation for tomorrow."|reserve_table
+"Please reserve a table for my birthday dinner."|reserve_table
+"Is it possible to book a table for four this Saturday?"|reserve_table
+"I need to reserve a table for a business meeting."|reserve_table
+"Can you arrange a table for next week?"|reserve_table
+"I want to book a table for a special occasion."|reserve_table
+"How do I reserve a table for next month?"|reserve_table
+"I'm looking to book a table for a family dinner."|reserve_table
+"Could I reserve a table for next Tuesday?"|reserve_table
+"Is there a way to book a table for this Sunday brunch?"|reserve_table
+"I need a table reservation for a party of six."|reserve_table
+"Can you help me book a table for an upcoming event?"|reserve_table
+"Please book a table for us for next weekend."|reserve_table
+"I would like to reserve a table for a date night."|reserve_table
+"Could you arrange a romantic dinner table for two?"|reserve_table
+"I need to book a table for a group dinner."|reserve_table
+"Can I get a reservation for a high tea this afternoon?"|reserve_table
+"Please secure a table for our anniversary celebration."|reserve_table
+
+"Yes, that's correct."|confirm
+"Confirm."|confirm
+"That's right."|confirm
+"Okay, go ahead."|confirm
+"Yes, please book it."|confirm
+"That's perfect, thank you."|confirm
+"Yes"|confirm
+"right"|confirm
+
+
+"login as admin"|login_admin
+"I want to see the list of reservations"|view_reservations
+"Show me all bookings"|view_reservations
+"Show me all reservations"|view_reservations
+"What are all the reservations"|view_reservations
+"Show all the bookings"|view_reservations
+"Show all the reservations"|view_reservations
+
+"Clear all reservations"|clear_reservations
+"Delete all bookings"|clear_reservations
+"Remove all reservation records"|clear_reservations
+
+
+"Change the date to [date]"|edit_date
+"Can we move it to [date]"|edit_date
+"Change the time to [time]"|edit_time
+"I want to come at [time]"|edit_time
+"Change the number of people to [number]"|edit_people
+"We'll be [number] people now"|edit_people
+"Change the date to [date]"|edit_date
+"Can we move it to [date]"|edit_date
+"I need to reschedule to [date]"|edit_date
+"Let's make it [date] instead"|edit_date
+"Is [date] available for booking?"|edit_date
+"I have to change our date to [date]"|edit_date
+"Could we shift our reservation to [date]"|edit_date
+"Let's postpone to [date]"|edit_date
+"Move my booking to [date], please"|edit_date
+"Change the time to [time]"|edit_time
+"I want to come at [time]"|edit_time
+"I'd like to change the time to [time]"|edit_time
+"Can we make it at [time] instead?"|edit_time
+"Is it possible to move to [time]"|edit_time
+"Let's reschedule the time to [time]"|edit_time
+"Adjust our reservation time to [time]"|edit_time
+"I need to move our time to [time]"|edit_time
+"Could you change our meeting time to [time]"|edit_time
+"Change the number of people to [number]"|edit_people
+"We'll be [number] people now"|edit_people
+"We will now be [number] guests"|edit_people
+"The party size has changed to [number]"|edit_people
+"There are now [number] of us"|edit_people
+"I need to update the headcount to [number]"|edit_people
+"Can you adjust the booking for [number] people?"|edit_people
+"The number of attendees is now [number]"|edit_people
+"We've got [number] people coming now"|edit_people
+
+"I want to book a table for 2 people on 2nd January for 3 pm"| reserve_table
+"I want to book a table for 2 people on 2nd January for 3 pm"|reserve_table
+"Book a table for four on March 15th at 7:30 PM."|reserve_table
+"Can I get a reservation for 6 this Friday at 8 PM?"|reserve_table
+"I'd like to reserve a table for two on April 10th at 6 PM."|reserve_table
+"Reserve a table for 3 on July 22nd at 1 PM."|reserve_table
+"We need a table for 8 on December 5th at 9 PM."|reserve_table
+"Could you book a table for 5 next Monday at noon?"|reserve_table
+"I want a reservation for 2 on the 18th of this month at 5 PM."|reserve_table
+"Please book a table for 7 on September 30th at 8:30 PM."|reserve_table
+"Reserve a spot for 3 people on November 11th at 7 PM."|reserve_table
+"I need to book for 4 on January 20th at 6:45 PM."|reserve_table
+"Can you get me a table for two this Saturday at 5 PM?"|reserve_table
+"Book a table for 9 on October 10th at 2 PM."|reserve_table
+"I'd like a reservation for 3 on the first of next month at 7:30 PM."|reserve_table
+"Reserve for 6 people on May 5th at 1:30 PM."|reserve_table
+"A table for 4 on June 19th at 12:30 PM, please."|reserve_table
+"Please book a table for 8 on the 23rd at 8 PM."|reserve_table
+"Need a reservation for 5 on 14th February at 9 PM."|reserve_table
+"Book a table for two tomorrow at 7:15 PM."|reserve_table
+"Reserve for 10 on August 8th at 3:30 PM."|reserve_table
+"Can I get a table for 4 next Wednesday at 6 PM?"|reserve_table
+"I would like to make a booking?"|reserve_table
+
+"What are your opening hours?"|opening_hours
+"Can you tell me when you open?"|opening_hours
+"What time do you close?"|opening_hours
+"When are you open?"|opening_hours
+"Your operating hours?"|opening_hours
+
+"Do you have any vegan options?"|vegan_options
+"Are there vegan meals on the menu?"|vegan_options
+"What vegan dishes do you offer?"|vegan_options
+"Can I get vegan food here?"|vegan_options
+"Vegan choices available?"|vegan_options
+
+"Can I book a table for a large group?"|large_group_booking
+"How many people can you accommodate in a group?"|large_group_booking
+"Is group booking available?"|large_group_booking
+"Booking for large parties?"|large_group_booking
+"Can I reserve for a big group?"|large_group_booking
+
+"What's your most popular dish?"|popular_dish
+"Which dish is the favorite here?"|popular_dish
+"What is the best-selling item on the menu?"|popular_dish
+"Can you recommend your most famous dish?"|popular_dish
+"What dish do most people order?"|popular_dish
+
+
+"What features do you offer?"|bot_capabilities
+"Can you list your services?"|bot_capabilities
+"Help me understand what you can do"|bot_capabilities
+"What can you assist with?"|bot_capabilities
+"What are your functions?"|bot_capabilities
+"Could you tell me about your abilities?"|bot_capabilities
+"What tasks can you perform?"|bot_capabilities
+"Show me your range of services."|bot_capabilities
+"What kind of help can you offer?"|bot_capabilities
+"What services do you provide?"|bot_capabilities
+"How can you be of assistance?"|bot_capabilities
+"What are you capable of doing?"|bot_capabilities
+"What support do you offer?"|bot_capabilities
+"Explain your functionalities."|bot_capabilities
+"Can you describe your features?"|bot_capabilities
+"What can you do?"|bot_capabilities
+"Help"|bot_capabilities
+
+"Book a table for next Friday"|date
+"I need a reservation for September 10th"|date
+
+"Table for two people"|people
+"Reservation for a party of four"|people
+
+"Is my reservation confirmed?"|confirm
+"Please confirm my booking"|confirm
+
+"What time can I reserve a table?"|time
+"I'd like to book for 7 PM"|time
